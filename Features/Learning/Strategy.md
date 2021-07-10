@@ -39,4 +39,4 @@
 
 ## Схема
 
-<embed src="./words_memorizer_strategy_algorythm.pdf" type="application/pdf">
+![](./words_memorizer_strategy_algorythm.png)
