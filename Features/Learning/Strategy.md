@@ -39,5 +39,4 @@
 
 ## Схема
 
-<object data="./words_memorizer_strategy_algorythm.pdf" type="application/pdf" width="100%">
-</object>
+<embed src="./words_memorizer_strategy_algorythm.pdf" type="application/pdf">
