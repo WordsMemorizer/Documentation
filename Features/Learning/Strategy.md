@@ -39,8 +39,5 @@
 
 ## Схема
 
-<object data="./words_memorizer_strategy_algorythm.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./words_memorizer_strategy_algorythm.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./words_memorizer_strategy_algorythm.pdf">Download PDF</a>.</p>
-    </embed>
+<object data="./words_memorizer_strategy_algorythm.pdf" type="application/pdf" width="100%">
 </object>
